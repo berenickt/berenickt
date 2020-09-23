@@ -11,3 +11,6 @@
 - 🤔 I’m looking for help with ...
 ..
 -->
+
+
+$2^2$
