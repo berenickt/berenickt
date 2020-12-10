@@ -1,4 +1,4 @@
-### Hello, I'm SeungWoo 👋
+### Hi there, I'm SeungWoo 👋
 
 <!--
 **berenickt/berenickt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
