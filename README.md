@@ -2,8 +2,9 @@
 
 ### Hi there, I'm SeungWoo 👋
 
-<!--
-**berenickt/berenickt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 - 🌏 포트폴리오 
 
@@ -14,6 +15,7 @@
 ..
 -->
 
-
+### 📚Tech Stack📚
+Techs that I've used at least once
 
 
