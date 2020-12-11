@@ -7,17 +7,12 @@
 ### Hi there, I'm SeungWoo 👋
 
 
-
-
-
 - 🌏 포트폴리오 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-..
--->
+
 
 <h3 align="center"> 📚 Tech Stack 📚 </h3>
 <p align="center"> Techs that I've used at least once </p>
