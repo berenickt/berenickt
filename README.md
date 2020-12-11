@@ -19,7 +19,8 @@
 ..
 -->
 
-### 📚Tech Stack📚
+<h3 align="center"> 📚Tech Stack📚 </h3>
+
 Techs that I've used at least once
 
 <div align=center>
