@@ -6,12 +6,10 @@
 
 ### Hi there, I'm SeungWoo 👋
 
+I am a developer who is interested in organizing.
 
-- 🌏 포트폴리오 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
 
 
 <h3 align="center"> 📚 Tech Stack 📚 </h3>
@@ -19,7 +17,7 @@
 
 <div align=center>
 
-![html badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![html badge](https://img.shields.io/badge/HTML-E34F26?style=style-square&logo=HTML5&logoColor=white)
 ![css badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![java badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
