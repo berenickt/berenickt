@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there, I'm SeungWoo 👋
+### Hi there, I'm Seung Woo Yoo 👋
 
 I am a developer who is interested in organizing.
 
