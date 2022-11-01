@@ -4,18 +4,14 @@
 
 </div>
 
-### Hi there, I'm Seung Woo Yoo 👋
+# Hello! Nice to see you. 👋
 
-I am a developer who is interested in organizing.
-
-
+I'm SeoungWoo, Front-end developer from Republic of Korea, and try to grow up.
 
 
+---
 
-<h3 align="center"> 📚 Tech Stack 📚 </h3>
-<p align="center"> Techs that I've used at least once </p>
-
-<div align=center>
+📚 Things I code with
 
 ![html badge](https://img.shields.io/badge/HTML-E34F26?style=style-square&logo=HTML5&logoColor=white)
 ![css badge](https://img.shields.io/badge/CSS-1572B6?style=style-square&logo=CSS3&logoColor=white)
