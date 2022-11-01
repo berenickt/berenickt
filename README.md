@@ -10,15 +10,14 @@ I'm SeoungWoo, Front-end developer from Republic of Korea, and try to grow up.
 
 ### 📚 Things I code with
 
-![html badge](https://img.shields.io/badge/HTML-E34F26?style=style-square&logo=HTML5&logoColor=white)
-![css badge](https://img.shields.io/badge/CSS-1572B6?style=style-square&logo=CSS3&logoColor=white)
-![javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=style-square&logo=JavaScript&logoColor=black)
-![sass badge](https://img.shields.io/badge/sass-CC6699?style=style-square&logo=Sass&logoColor=white)
-![typescript badge](https://img.shields.io/badge/typescript-007ACC?style=style-square&logo=TypeScript&logoColor=white)
-![java badge](https://img.shields.io/badge/Java-007396?style=style-square&logo=Java&logoColor=white)
-![spring badge](https://img.shields.io/badge/Spring-6DB33F?style=style-square&logo=Spring&logoColor=white)
-![node.js badge](https://img.shields.io/badge/Node.js-339933?style=style-square&logo=Node.js&logoColor=white)
-![react badge](https://img.shields.io/badge/react-61DAFB?style=style-square&logo=React&logoColor=black)
-![oracle badge](https://img.shields.io/badge/oracle-F80000?style=style-square&logo=Oracle&logoColor=black)
+![html badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![sass badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![node.js badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![oracle badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
