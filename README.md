@@ -4,18 +4,21 @@
 
 ## Info.
 ![Blog](https://berenickt.github.io/) | ![Resume](https://www.notion.so/berenikct99/53a75c7f23d44dd58b38dc72c39f0019)  
-  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="58" height="58" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="58" height="58" /></div>
-created by https://github.com/qkrdmstlr3/techstack-generator
 
-
-  
 </div>
 
 # Hello! Nice to see you. 👋
 
 I'm SeoungWoo, Front-end developer from Republic of Korea, and try to grow up.
 
+<div align=center>
+
+## Techs.  
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="58" height="58" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="58" height="58" /></div>
+created by https://github.com/qkrdmstlr3/techstack-generator
+
+</div>  
+  
 ### 📚 Things I code with
 
 ![git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -29,4 +32,3 @@ I'm SeoungWoo, Front-end developer from Republic of Korea, and try to grow up.
 ![oracle badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-</div>
