@@ -5,6 +5,8 @@
 ## Info.
 ![Blog](https://berenickt.github.io/) | ![Resume](https://berenikct99.notion.site/53a75c7f23d44dd58b38dc72c39f0019)  
 
+https://berenikct99.notion.site/53a75c7f23d44dd58b38dc72c39f0019  
+  
 </div>
 
 # Hello! Nice to see you. 👋
