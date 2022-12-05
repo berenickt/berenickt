@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberenickt&count_bg=%23D5648A&title_bg=%23A2A4DD&icon=github.svg&icon_color=%23E3D7EA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Info.
-![Blog](https://berenickt.github.io/) | ![Resume](https://www.notion.so/berenikct99/53a75c7f23d44dd58b38dc72c39f0019)  
+![Blog](https://berenickt.github.io/) | ![Resume]([https://www.notion.so/berenikct99/53a75c7f23d44dd58b38dc72c39f0019](https://berenikct99.notion.site/berenikct99/53a75c7f23d44dd58b38dc72c39f0019))  
 
 </div>
 
