@@ -13,3 +13,5 @@
 # Hello! Nice to see you. 👋
 
 I'm SeoungWoo, Front-end developer from Republic of Korea, and try to grow up.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berenickt)](https://github.com/berenickt/github-readme-stats)
