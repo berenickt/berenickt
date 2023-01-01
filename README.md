@@ -12,6 +12,8 @@ Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea �
 
 <a href="https://github.com/berenickt"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=berenickt&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="berenickt's github stats" /></a>
 
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berenickt&layout=compact&theme=material-palenight&hide_border=true" alt="berenickt's Most Used Languages" /></a> 
+
 <br />
 
 ### 🗡️ Languages and Tools
