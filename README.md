@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요&fontSize=90)
 
 <div align=center>
 
