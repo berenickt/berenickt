@@ -10,8 +10,6 @@ Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea �
 * 🌱 I’m currently interested in `TypeScript`, `React Native`, `Flutter`, `Electron`
 * ⚽ Fun fact: I love to soccer and reading. 📚
 
-<a href="https://github.com/berenickt"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=berenickt&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="berenickt's github stats" /></a>
-
 <br />
 
 ### 🗡️ Languages and Tools
