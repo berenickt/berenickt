@@ -6,7 +6,7 @@
 
 </div>
 
-Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea 🇰🇷, and try to grow up.
+Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea 😁, and try to grow up.
 * 🌱 I’m currently interested in `TypeScript`, `React Native`, `Next.js`, `Electron`
 * ⚽ Fun fact: I love to soccer and reading. 📚
 
