@@ -24,10 +24,19 @@ Front-end
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> 
 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+
+---
+
 Back-end
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+---
 
 Language
 
@@ -35,13 +44,17 @@ Language
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
 
+---
+
 OS
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white"/>
 
+---
 
-CI/CD
+DevOps
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> </t>
 
