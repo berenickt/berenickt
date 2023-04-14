@@ -2,7 +2,8 @@
 
 <div align=center>
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-EF7121?style=flat-squar&logo=devdotto&logoColor=white)](https://berenickt.github.io/) [![Resume Badge](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://berenikct99.notion.site/berenikct99/53a75c7f23d44dd58b38dc72c39f0019) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberenickt&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-EF7121?style=flat-squar&logo=devdotto&logoColor=white)](https://berenickt.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberenickt&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
