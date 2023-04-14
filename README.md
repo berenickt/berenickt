@@ -8,7 +8,7 @@
 
 Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea 😁, and try to grow up.
 
-- 🌱 I’m currently interested in `TypeScript`, `React Native`, `Next.js`
+- 🌱 I’m currently interested in `React Native`
 - ⚽ Fun fact: I love to soccer and reading. 📚
 
 <br />
