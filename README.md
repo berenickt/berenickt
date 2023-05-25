@@ -9,7 +9,7 @@
 
 Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea 😁, and try to grow up.
 
-- 🌱 I’m currently interested in `React Native`, `Electron`
+- 🌱 I’m currently interested in `Electron`
 - ⚽ Fun fact: I love to soccer and reading. 📚
 
 <br />
