@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-EF7121?style=flat-squar&logo=devdotto&logoColor=white)](https://berenickt.github.io/)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-EF7121?style=flat-squar&logo=devdotto&logoColor=white)](https://my-nextra-blog.vercel.app/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberenickt&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
@@ -22,7 +22,8 @@ Front-end
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<
+img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> </t>
