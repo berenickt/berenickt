@@ -6,9 +6,11 @@
 
 </div>
 
-Welcome to my page. I'm SeoungWoo, Front-end developer from Republic of Korea 😁, and try to grow up.
+Welcome to my page.
+I am an optimist who strives for user-centric development 
+and enjoy writing articles to organize my thoughts.
 
-- 🌱 I’m currently interested in `Electron`
+- 🌱 I’m currently interested in `Electron`, `Nest.js`
 - ⚽ Fun fact: I love to soccer and reading. 📚
 
 <br />
