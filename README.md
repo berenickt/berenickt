@@ -59,7 +59,7 @@ DevOps
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-- AWS : EC2, IAM, VPC, S3, RDS, Route53, Clound Front
+- AWS : EC2, EBS, ELB, Auto Scaling, RDS, S3, Cloud Front, Route 53, IAM, DynamoDB, Lambda, SDK-CLI
 
 ---
 
