@@ -12,7 +12,7 @@ and enjoy writing articles to organize my thoughts.
 
 - 🌱 I’m currently interested in `Electron`
 - ⚽ Fun fact: I love to soccer and reading. 📚
-- 📬 Connect with me: dhktjdyd12@naver.com
+- 📬 Connect with me: berenickt99@gmail.com
 
 <br />
 
