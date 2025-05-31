@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Simplicity is the ultimate sophistication.&fontSize=45&fontAlignY=41&fontAlign=50&textBg=false&section=header&reversal=false&animation=fadeIn&rotate=0&strokeWidth=0&descAlignY=57)Welcome to my page!
-I'm an optimist who strives for user-centric development,
-and I enjoy writing articles to organize my thoughts.
+![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Simplicity%20is%20the%20ultimate%20sophistication.&reversal=false&textBg=false&fontSize=36&fontAlignY=37&fontAlign=50)
+
+<br />
+
+Welcome to my page! <br />
+I'm an optimist who strives for user-centric development, <br />
+and I enjoy writing articles to organize my thoughts. <br />
 
 - 🌱 I love talking about dreams, football, books, and music.
 - ⚽ I try to live by the spirit of *"stay hungry, stay foolish."*
@@ -51,7 +55,7 @@ and I enjoy writing articles to organize my thoughts.
 |        Build Tools        | Webpack, Vite                                                |
 |      Test Automation      | Jest, Cypress                                                |
 |    Cloud & Deployment     | AWS, Vercel, Netlify                                         |
-|                           | AWS EC2, EBS, ELB, Auto Scaling, RDS, S3, Cloud Front, Route 53, IAM, DynamoDB, Lambda, SDK-CLI |
+|                           | AWS EC2, EBS, ELB, Auto Scaling, RDS, S3, <br /> Cloud Front, Route 53, IAM, DynamoDB, Lambda, SDK-CLI |
 |    Artifact Repository    | GitHub Packages                                              |
 |      Version Control      | Git, GitHub                                                  |
 |    Team Collaboration     | Notion, Slack, Jira, Trello                                  |
