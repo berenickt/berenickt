@@ -12,7 +12,7 @@ and I enjoy writing articles to organize my thoughts. <br />
 
 <br />
 
-##### **📱 My Front-End Tech**
+**📱 My Front-End Tech**
 
 |      Category      | Tech                                            |
 | :----------------: | ----------------------------------------------- |
