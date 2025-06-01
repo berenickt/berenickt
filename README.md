@@ -66,7 +66,14 @@ and I enjoy writing articles to organize my thoughts. <br />
 I try to follow the **Repository Naming Convention** in my repositories. 📝💦
 
 - Use `kebab-case` (lowercase letters with hyphens) (e.g. `react-todo-app`, `node-api-server`)
-  - `lecture-[platform]-[course-name]-[tech]`
+  - `[subject]-[platform]-[name]-[tech]`
+  - `lecture-` : 
+  - `pratice-` :
+  - `project-` : Personal or team projects 
+  - `template-` : Project or configuration templates
+  - `portfolio-` :
+  - `demo-` : presentations
+  - `note-` : Notes or learning summaries in Markdown
 - Avoid special characters and whitespace
 - Make names descriptive and meaningful
 - Include technologies or topics when relevant (e.g. `nextjs-blog`, `flutter-weather-app`)
