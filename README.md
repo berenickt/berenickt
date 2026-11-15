@@ -2,7 +2,7 @@
 
 <br />
 
-# Hi, I'm Seungwoo 👋
+# Hi 👋
 
 I'm a **builder with a QA mindset**.
 I started out testing autonomous driving robots, now work on game platform QA,
