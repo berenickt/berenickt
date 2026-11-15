@@ -1,79 +1,58 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Simplicity%20is%20the%20ultimate%20sophistication.&reversal=false&textBg=false&fontSize=36&fontAlignY=37&fontAlign=50)
 
 <br />
+# Hi, I'm Seungwoo 👋
 
-Welcome to my page! <br />
-I'm an optimist who strives for user-centric development, <br />
-and I enjoy writing articles to organize my thoughts. <br />
+I'm a **builder with a QA mindset**.
+I started out testing autonomous driving robots, now work on game platform QA,
+and I'm on my way to building **my own products** — with quality baked in from day one.
 
-- 🌱 I love talking about dreams, football, books, and music.
-- ⚽ I try to live by the spirit of *"stay hungry, stay foolish."*
-- 📬 Connect me: berenickt99@gmail.com
+<br>
 
-<br />
+## 🧭 Where I come from
 
-**📱 My Front-End Tech**
+- **Platform QA** — login SDK validation, launcher & web admin, AWS migration, ERP systems
+- **Robotics QA** — scenario testing for autonomous driving robots
+- **Test automation** — E2E with Playwright, API testing, CI with GitHub Actions
 
-|      Category      | Tech                                            |
-| :----------------: | ----------------------------------------------- |
-|   Core Web Tech    | HTML, CSS, JavaScript (ES6+, DOM), TypeScript   |
-|  Component-Based   | React                                           |
-|   Meta Framework   | Next.js                                         |
-| Template-Based SSG | Gatsby, Hugo, Jekyll                            |
-| Quality & Tooling  | ESLint, Prettier                                |
-|      Styling       | CSS, SCSS, Tailwind, Emotion, styled-components |
-|  State Management  | Redux Toolkit, Zustand, Recoil, React Query     |
-|   Data Fetching    | Fetch, Axios, SWR, Apollo Client                |
-|  Bundling & Build  | Vite, Webpack                                   |
-|      Testing       | Jest, Cypress                                   |
-|   App Platforms    | React Native, Expo, Flutter                     |
+Testing taught me how real users break software.
+I want to use that to build products people actually enjoy using.
 
-<br />
+<br>
 
-**💾 My Back-End Tech (Node)**
+## 🧰 Tech I use
 
-|      Category       | Tech                                                         |
-| :-----------------: | ------------------------------------------------------------ |
-|      Framework      | Express.js, NestJS                                           |
-|    API Paradigm     | REST, GraphQL(Apollo), gRPC, Serverless                      |
-|      ORM / DB       | TypeORM / PostgreSQL, MySQL, SQLite, SQLite<br />Mongoose / MongoDB<br />Redis |
-|   Auth & Security   | JWT, OAuth2, Passport.js, bcrypt                             |
-|   API Validation    | class-validator, Swagger                                     |
-| HTTP & API Clients  | axios, fetch, Postman, Apollo Client                         |
-|       Testing       | Jest                                                         |
-|    File Handling    | multer, AWS S3 SDK                                           |
-| Deployment & DevOps | Docker, PM2, GitHub Actions, Vercel                          |
+**Build**
 
-<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-**⚙️ My Other Tech**
+**Test**
 
-|         Category          | Tech                                                         |
-| :-----------------------: | ------------------------------------------------------------ |
-|           CI/CD           | GitHub Actions                                               |
-| Container & Orchestration | Docker, Kubernetes, Helm, Docker Compose                     |
-|        Build Tools        | Webpack, Vite                                                |
-|      Test Automation      | Jest, Cypress                                                |
-|    Cloud & Deployment     | AWS, Vercel, Netlify                                         |
-|                           | AWS EC2, EBS, ELB, Auto Scaling, RDS, S3, <br /> Cloud Front, Route 53, IAM, DynamoDB, Lambda, SDK-CLI |
-|    Artifact Repository    | GitHub Packages                                              |
-|      Version Control      | Git, GitHub                                                  |
-|    Team Collaboration     | Notion, Slack, Jira, Trello                                  |
-|   Programming Languages   | C, Java, Python                                              |
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<br />
+<br>
 
-I try to follow the **Repository Naming Convention** in my repositories. 📝💦
+## 🌱 Right now
 
-- Use `kebab-case` (lowercase letters with hyphens) (e.g. `react-todo-app`, `node-api-server`)
-  - `[subject]-[platform]-[name]-[tech]`
-  - `lecture-` : 
-  - `pratice-` :
-  - `project-` : Personal or team projects 
-  - `template-` : Project or configuration templates
-  - `portfolio-` :
-  - `demo-` : presentations
-  - `note-` : Notes or learning summaries in Markdown
-- Avoid special characters and whitespace
-- Make names descriptive and meaningful
-- Include technologies or topics when relevant (e.g. `nextjs-blog`, `flutter-weather-app`)
+- Building my own service from idea to launch
+- Growing a Playwright E2E test portfolio
+- Writing to organize my thoughts → [Blog](https://BLOG_URL)
+
+## ⚽ Off the keyboard
+
+Books, football, music, and talking about dreams.
+*Stay hungry, stay foolish.*
+
+<br>
+
+📬 berenickt99@gmail.com
