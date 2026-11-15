@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Simplicity%20is%20the%20ultimate%20sophistication.&reversal=false&textBg=false&fontSize=36&fontAlignY=37&fontAlign=50)
 
 <br />
+
 # Hi, I'm Seungwoo 👋
 
 I'm a **builder with a QA mindset**.
@@ -47,6 +48,8 @@ I want to use that to build products people actually enjoy using.
 - Building my own service from idea to launch
 - Growing a Playwright E2E test portfolio
 - Writing to organize my thoughts → [Blog](https://BLOG_URL)
+
+<br>
 
 ## ⚽ Off the keyboard
 
