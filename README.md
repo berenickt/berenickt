@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Simplicity%20is%20the%20ultimate%20sophistication.&reversal=false&textBg=false&fontSize=36&fontAlignY=37&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3178C6,100:2EAD33&text=Simplicity%20is%20the%20ultimate%20sophistication.&fontColor=ffffff&fontSize=34&fontAlign=50&fontAlignY=38&animation=fadeIn)
 
 <br />
 
@@ -59,3 +59,5 @@ Books, football, music, and talking about dreams.
 <br>
 
 📬 berenickt99@gmail.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3178C6,100:2EAD33&section=footer)
